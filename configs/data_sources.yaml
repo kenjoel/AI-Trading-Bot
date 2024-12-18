@@ -1,0 +1,6 @@
+finnhub:
+  api_key: ""
+symbols:
+  - symbol: "AAPL"
+    resolution: "D"
+    days_back: 7
